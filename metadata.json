@@ -1,0 +1,6 @@
+{
+  "name": "TAIEX Quant Strategy Predictor",
+  "description": "An advanced TAIEX and Taiwan index futures prediction and quant strategy decision reasoning engine powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
